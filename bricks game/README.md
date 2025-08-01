@@ -204,3 +204,7 @@ This project is open source and available under the [MIT License](https://openso
 **Enjoy playing Brick Breaker! 🎮**
 
 *Built with ❤️ using HTML5 Canvas and JavaScript*
+
+
+
+//Simple ReadME chnage//
